@@ -1,0 +1,13 @@
+.wrapper {
+color: blueviolet;
+width: 400px;
+box-sizing: border-box;
+border: 1px;
+border-radius: 2px;
+}
+.head {
+    display: flex;
+}
+img {
+width: 400px;
+}

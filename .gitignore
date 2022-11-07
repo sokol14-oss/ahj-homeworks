@@ -1,3 +1,6 @@
+dist
+doc
+
 # Logs
 logs
 *.log
@@ -78,6 +81,3 @@ typings/
 
 # DynamoDB Local files
 .dynamodb/
-
-.idea
-.DS_Store
